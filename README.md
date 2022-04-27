@@ -4,6 +4,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b4e74a4e-ee30-4e50-b1af-f7864b096f04/deploy-status)](https://app.netlify.com/sites/writing-assignment-cs328/deploys)
 <!-- Replace this link with your generated Netlify website link -->
 Link: https://cs328-oreo.netlify.app
+
 New Site Link (Will take some time to load due to large sized Plots): https://oreo-re.netlify.app/
 
 Instructions: [Link](https://github.com/cs328-2022/writing-assignment/blob/main/_notebooks/instructions.ipynb)
